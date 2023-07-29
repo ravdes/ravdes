@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java Spring/Docker/PostgreSQL**
 
-- 🎓 Student of **Wroclaw University of Science and Technology IT Automation Systems**
+- 🎓 I'm studying **IT Automation Systems in Wroclaw University of Science and Technology**
 
 - 📫 How to reach me **ravdes@proton.me & ravdes on discord**
 
