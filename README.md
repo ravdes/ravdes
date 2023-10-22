@@ -7,7 +7,7 @@
 
 - 🎓 I'm studying **IT Automation Systems in Wroclaw University of Science and Technology**
 
-- 📫 How to reach me **ravdes@proton.me & ravdes on discord**
+- 📫 How to reach me **nowakwik21@gmail.com & ravdes on discord**
 
 - 👨‍💻 **JetBrains Enjoyer**
 
