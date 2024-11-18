@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Wiktor</h1>
-<h3 align="center">Java Backend Developer from Poland</h3>
+<h3 align="center">Backend Developer from Poland</h3>
 
-- 🧠 Currently enhancing my skills in **Java Development, Spring Boot and Testing**
-- 💡 I plan to explore **Kubernetes, Terraform and Kafka** in the near future
+- 🧠 Currently enhancing my skills in **Golang, Grpc and Kafka**
+- 💡 I plan to explore **Kubernetes and Terraform** in the near future
 - 🎓 Pursuing a degree in **Applied Computer Science** at **Warsaw University of Technology**  
 - 📫 You can reach me at: [nowakwik21@gmail.com](mailto:nowakwik21@gmail.com)
 - 👨‍💻 Enthusiastic user of **JetBrains** tools
