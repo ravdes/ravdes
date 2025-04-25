@@ -2,7 +2,6 @@
 <h3 align="center">Backend Developer from Poland</h3>
 
 - 🧠 Currently enhancing my skills in **Golang and gRPC**
-- 💡 I plan to explore **Kubernetes and Terraform** in the near future
 - 🎓 Pursuing a degree in **Applied Computer Science** at **Warsaw University of Technology**  
 - 📫 You can reach me at: ravdes - discord or [nowakwik21@gmail.com](mailto:nowakwik21@gmail.com)
 - 👨‍💻 Enthusiastic user of **JetBrains** tools
